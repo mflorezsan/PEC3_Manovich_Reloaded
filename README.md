@@ -65,6 +65,8 @@ En conclusión, esta forma de hibridación representa, a través de los filtros,
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Capítulos 4 y 5. Barcelona: Editorial UOC.
+* Ruben Vos. (2020). Paradigma Digital. **¿Qué se esconde detrás de las interfaces de voz?**  [Artículo](https://www.paradigmadigital.com/dev/que-esconden-interfaces-voz/)
+* Spicy Minds. **Descubre el mundo de los filtros en Instagram**  [Artículo](https://spicyminds.co/descubre-el-mundo-de-los-filtros-en-instagram-mas-que-un-toque-de-diversion/)
 
 
 ----
