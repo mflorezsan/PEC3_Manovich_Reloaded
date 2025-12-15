@@ -13,7 +13,7 @@ Fecha: 19/12/2025
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La hibridación de medios, según la describe Manovich, no se limita simplemente a la funcionalidad de dos o más formatos distintos sobre una misma interfaz, sino que implica una integración o remezcla más profunda de las técnicas y lógicas que anteriormente funcionaban de manera independiente. Es en este punto donde la concepción de una nueva especie de medio se produce gracias al software y a la interacción de distintas técnicas que se transforman en algoritmos capaces de operar sobre una misma estructura de datos. A continuación se plantea la hibridación en dos casos comunes dentro de la cultura digital contemporánea, los cuales permiten identificar una configuración en la que los límites de los medios se fusionan, originando nuevas funcionalidades y prácticas que lo diferencian de sus componentes iniciales. 
 
 
 ## Re-descubriendo la hibridacion: Alexa
