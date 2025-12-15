@@ -68,8 +68,10 @@ En conclusión, esta forma de hibridación representa, a través de los filtros,
 
 
 ----
+###Licencia repositorio
+Licencia: Este trabajo está realizado bajo una licencia [BY CC SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
-
-####Licencias de las imágenes 
-- Instagram marketing strategy: imagen de Today Testing en commons.wikimedia.org bajo licencia [BY CC SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) 
+###Licencias de las imágenes 
+- Lev Manovich — How to analyze culture using social networks: imagen de Michael Goldenkov / Strelka Institute en commons.wikimedia.org bajo licencia [BY CC 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
+- amazon alexa echo: imagen de Stock Catalog en commons.wikimedia.org bajo licencia [BY CC 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
+- Instagram marketing strategy: imagen de Today Testing en commons.wikimedia.org bajo licencia [BY CC SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
