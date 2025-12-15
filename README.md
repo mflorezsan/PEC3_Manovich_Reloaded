@@ -8,7 +8,7 @@ Autor: Mario Luis Florez Sanchez
 
 Fecha: 19/12/2025
 
-![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/2/27/Llibre_manovich.jpg) 
+![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg/1024px-Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg) 
 
 ## Planteamiento
 
