@@ -8,9 +8,7 @@ Autor: Mario Luis Florez Sanchez
 
 Fecha: 19/12/2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
+![Cultura Digital](https://upload.wikimedia.org/wikipedia/commons/2/27/Llibre_manovich.jpg) 
 
 ## Planteamiento
 
@@ -19,6 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Re-descubriendo la hibridacion: Alexa
+![Alexa](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alexa_amazon_echo_dot_%2842820690351%29.jpg/1024px-Alexa_amazon_echo_dot_%2842820690351%29.jpg) 
 
 Alexa es una de las asistentes de voz más conocidas y populares en el mundo, capaz de integrar tecnologías y herramientas que solían pertenecer a medios por separado. Alexa, aparte de su reconocimiento de voz, interacción conversacional, procesamiento de datos, entre otras funciones, se ha convertido en un personaje de la cultura digital actual, la cual ha evolucionado para pasar de una asistente de voz a casi una acompañante o asistente de hogar. No existía un medio conversacional digital que tuviera un sentido tradicional, y la reconfiguración de nuevos datos ha permitido que la hibridación entre altavoz, interfaz, asistente y software sea un caso clásico de cómo la remezcla de datos representan los nuevos medios. 
 
@@ -42,6 +41,7 @@ Manovich explica en varios medios citados en El Software toma el mando, como mez
 En síntesis, la hibridación profunda que ejemplifica Alexa es la vinculación de distintos lenguajes de medios dentro de un solo flujo algorítmico, una nueva “especie mediática” en términos de Manovich, donde el lenguaje es la interfaz y la salida no es una pantalla sino una voz sintética que actúa sobre otros medios como la música, la hora, la domótica, mensajes entre otras. Esto amplifica y ejemplifica el concepto de hibridación al permitir que herramientas separadas se integren en un solo entorno.
 
 ## Re-descubriendo la hibridacion: Filtros de Instagram
+![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Instagram_marketing_strategy.jpg/1024px-Instagram_marketing_strategy.jpg) 
 
 Si bien Instagram ha evolucionado hacia una plataforma que integra medios y formatos como post, stories y reels, esta remezcla multimedia conlleva un nivel más profundo, donde cada formato convive de manera diferenciada y poseen sus propios recursos y estrategias. Esta lógica encaja en la conceptualización que Manovich describe como hibridación profunda. Es el caso de los filtros de la aplicación, un recurso que aplica herramientas con efectos en tiempo real y supone un salto del filtro fotográfico tradicional al filtro interactivo y dinámico. Algoritmos que eran conceptualizados por separado y destinados a funciones específicas ahora se unifican en una funcionalidad adicional del formato stories. 
 
