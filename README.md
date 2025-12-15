@@ -70,3 +70,6 @@ En conclusión, esta forma de hibridación representa, a través de los filtros,
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
+####Licencias de las imágenes 
+- Instagram marketing strategy: imagen de Today Testing en commons.wikimedia.org bajo licencia BY CC SA 4.0 [https://creativecommons.org/licenses/by-sa/4.0/deed.en](#sample-section) 
