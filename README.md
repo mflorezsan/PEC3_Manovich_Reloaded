@@ -64,14 +64,14 @@ En conclusión, esta forma de hibridación representa, a través de los filtros,
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Capítulos 4 y 5. Barcelona: Editorial UOC.
 
 
 ----
-###Licencia repositorio
+### Licencia repositorio
 Licencia: Este trabajo está realizado bajo una licencia [BY CC SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-###Licencias de las imágenes 
+### Licencias de las imágenes 
 - Lev Manovich — How to analyze culture using social networks: imagen de Michael Goldenkov / Strelka Institute en commons.wikimedia.org bajo licencia [BY CC 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
 - amazon alexa echo: imagen de Stock Catalog en commons.wikimedia.org bajo licencia [BY CC 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
 - Instagram marketing strategy: imagen de Today Testing en commons.wikimedia.org bajo licencia [BY CC SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
